@@ -1,5 +1,9 @@
 *{
-    color: red;
+    color: black;
+    align-content: center;
+    font-size: larger;
+    font: 100;
+    text-align: center;
 }
 h1{
     color: aqua;
@@ -9,4 +13,12 @@ h3{
 }
 h4{
     color: darkviolet;
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+*{
+    align-content: center;
 }
